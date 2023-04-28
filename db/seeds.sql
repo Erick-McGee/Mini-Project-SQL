@@ -6,3 +6,4 @@ VALUES (“Harry potter”),
        (“The snow house”);
 
 INSERT INTO reviews (reviews, movies) VALUES (“Movie about magic”), 
+
